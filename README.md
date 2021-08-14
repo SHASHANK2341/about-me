@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hpriyam8
+- 👋 Hi, I’m PRIYAM
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on nothing lol  
 - 📫 How to reach me - discord
 
 <!---
