@@ -1,7 +1,7 @@
 <p align='center'>
   <b>Hi 👋, I'm HPRIYAM</b><br>
   <a href="https://discord.gg/M3CP42MJZU">Discord</a> |
-  <a href="https://www.youtube.com/c/HPRIYAM">YouTube</a> |
+  <a href="https://www.youtube.com/c/HPRIYAM">YouTube</a> 
 </p>
 
 <br><br>
